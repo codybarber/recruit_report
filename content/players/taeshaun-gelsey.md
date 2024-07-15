@@ -1,6 +1,6 @@
 ---
 key: 111495
-name: "Tae'shaun Gelsey"
+name: "Taeshaun Gelsey"
 overallRank: 263
 consensusOverallRank: 393
 positionAbbreviation: TE

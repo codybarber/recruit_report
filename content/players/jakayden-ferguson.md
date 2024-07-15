@@ -1,6 +1,6 @@
 ---
 key: 108962
-name: "Ja'Kayden Ferguson"
+name: "JaKayden Ferguson"
 overallRank: 
 consensusOverallRank: 429
 positionAbbreviation: WR

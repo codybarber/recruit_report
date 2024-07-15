@@ -1,6 +1,6 @@
 ---
 key: 95027
-name: "Ja'Kyrian Turner"
+name: "JaKyrian Turner"
 overallRank: 
 consensusOverallRank: 1132
 positionAbbreviation: ATH

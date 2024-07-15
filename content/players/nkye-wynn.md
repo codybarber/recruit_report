@@ -1,6 +1,6 @@
 ---
 key: 122602
-name: "N'Kye Wynn"
+name: "NKye Wynn"
 overallRank: 
 consensusOverallRank: 464
 positionAbbreviation: OT

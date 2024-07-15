@@ -1,6 +1,6 @@
 ---
 key: 114055
-name: "Kha'leal Sterling"
+name: "Khaleal Sterling"
 overallRank: 
 consensusOverallRank: 1113
 positionAbbreviation: WR

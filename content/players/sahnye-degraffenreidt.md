@@ -1,6 +1,6 @@
 ---
 key: 109082
-name: "Sah'nye Degraffenreidt"
+name: "Sahnye Degraffenreidt"
 overallRank: 
 consensusOverallRank: 831
 positionAbbreviation: WR

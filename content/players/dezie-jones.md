@@ -1,6 +1,6 @@
 ---
 key: 93065
-name: "De'zie Jones"
+name: "Dezie Jones"
 overallRank: 295
 consensusOverallRank: 238
 positionAbbreviation: WR

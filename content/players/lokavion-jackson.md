@@ -1,6 +1,6 @@
 ---
 key: 124638
-name: "Lo'Kavion Jackson"
+name: "LoKavion Jackson"
 overallRank: 
 consensusOverallRank: 1479
 positionAbbreviation: S

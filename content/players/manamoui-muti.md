@@ -1,6 +1,6 @@
 ---
 key: 112046
-name: "Manamo'ui Muti"
+name: "Manamoui Muti"
 overallRank: 
 consensusOverallRank: 850
 positionAbbreviation: OT

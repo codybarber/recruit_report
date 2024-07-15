@@ -1,6 +1,6 @@
 ---
 key: 110866
-name: "Tre' Harrison"
+name: "Tre Harrison"
 overallRank: 
 consensusOverallRank: 1003
 positionAbbreviation: S

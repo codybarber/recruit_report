@@ -1,6 +1,6 @@
 ---
 key: 110292
-name: "D'aryhian Clemons"
+name: "Daryhian Clemons"
 overallRank: 
 consensusOverallRank: 945
 positionAbbreviation: ATH

@@ -1,6 +1,6 @@
 ---
 key: 111530
-name: "Ma'khi Jones"
+name: "Makhi Jones"
 overallRank: 
 consensusOverallRank: 1194
 positionAbbreviation: S

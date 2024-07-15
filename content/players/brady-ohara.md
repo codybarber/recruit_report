@@ -1,6 +1,6 @@
 ---
 key: 109038
-name: "Brady O'Hara"
+name: "Brady OHara"
 overallRank: 
 consensusOverallRank: 440
 positionAbbreviation: TE

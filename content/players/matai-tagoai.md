@@ -1,6 +1,6 @@
 ---
 key: 108881
-name: "Matai Tagoa'i"
+name: "Matai Tagoai"
 overallRank: 114
 consensusOverallRank: 76
 positionAbbreviation: LB

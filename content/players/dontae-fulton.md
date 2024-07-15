@@ -1,6 +1,6 @@
 ---
 key: 122767
-name: "D'ontae Fulton"
+name: "Dontae Fulton"
 overallRank: 
 consensusOverallRank: 1222
 positionAbbreviation: WR

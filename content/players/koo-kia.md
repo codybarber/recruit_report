@@ -1,6 +1,6 @@
 ---
 key: 110286
-name: "Ko'o Kia"
+name: "Koo Kia"
 overallRank: 
 consensusOverallRank: 504
 positionAbbreviation: LB

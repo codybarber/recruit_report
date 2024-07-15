@@ -1,6 +1,6 @@
 ---
 key: 110859
-name: "Ka'Mori Moore"
+name: "KaMori Moore"
 overallRank: 
 consensusOverallRank: 729
 positionAbbreviation: DL

@@ -11,7 +11,7 @@ function createMarkdownContent(player) {
   const frontMatter = [
     '---',
     `key: ${player.key}`,
-    `name: "${player['person.name']}"`,
+    `name: "${player['person.name'].replace(/'/g, '')}"`,
     `overallRank: ${player.overallRank}`,
     `consensusOverallRank: ${player.consensusOverallRank}`,
     `positionAbbreviation: ${player.positionAbbreviation}`,
@@ -90,11 +90,11 @@ async function generateMarkdownFiles(players) {
 
   for (const player of players) {
     const content = createMarkdownContent(player);
-    const fileName = `${player.key}-${player['person.name'].toLowerCase().replace(/\s+/g, '-')}.md`;
+    const fileName = `${player['person.name'].toLowerCase().replace(/\s+/g, '-').replace(/'/g, '')}.md`;
     const filePath = path.join(outputDir, fileName);
 
     await fs.writeFile(filePath, content);
-    console.log(`Generated markdown for ${player['person.name']}`);
+    console.log(`Generated markdown for ${player['person.name'].replace(/'/g, '')}`);
   }
 }
 

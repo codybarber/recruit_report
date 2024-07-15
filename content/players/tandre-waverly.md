@@ -1,6 +1,6 @@
 ---
 key: 95016
-name: "T'Andre Waverly"
+name: "TAndre Waverly"
 overallRank: 
 consensusOverallRank: 415
 positionAbbreviation: ATH

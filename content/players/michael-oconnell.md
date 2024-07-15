@@ -1,6 +1,6 @@
 ---
 key: 120960
-name: "Michael O'Connell"
+name: "Michael OConnell"
 overallRank: 
 consensusOverallRank: 857
 positionAbbreviation: OT

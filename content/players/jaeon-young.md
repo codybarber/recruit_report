@@ -1,6 +1,6 @@
 ---
 key: 110134
-name: "Jae'on Young"
+name: "Jaeon Young"
 overallRank: 
 consensusOverallRank: 479
 positionAbbreviation: ATH
